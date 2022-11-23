@@ -1,4 +1,4 @@
-import * as calc from './calculationStation';
+import * as calc from './areas/calculationStation';
 
 console.log("A área de um:");
 console.log("-----------------------------------------");
